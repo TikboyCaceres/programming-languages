@@ -1,5 +1,12 @@
 {
-    "name": 'javascript',
-    "logo": '',
-    "description": ''
+  "languages": [
+    {
+      "id": 1,
+      "name": "javascript",
+      "description": "sample description"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
