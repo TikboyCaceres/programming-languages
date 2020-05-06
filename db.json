@@ -1,8 +1,8 @@
 {
   "languages": [
-    { "id": 1, "name": "Javascript", "logo": "", "description": ""},
-    { "id": 2, "name": "Python": "logo": "", "description": ""},
-    { "id": 3, "name": "C#", "logo": "", "description": ""}
+    { "id": 1, "name": "Javascript", "logo": "sdasda", "description": "dsadasd"},
+    { "id": 2, "name": "Python": "logo": "sdasd", "description": "dasdas"},
+    { "id": 3, "name": "C#", "logo": "sadasd", "description": "sdasdasd"}
   ],
   "profile": {
     "name": "typicode"
